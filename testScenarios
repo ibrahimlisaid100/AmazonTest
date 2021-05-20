@@ -1,0 +1,18 @@
+Does the search box shows search page without any search query?
+What does search page shows if you enter nothing in search box and hit enter or press finder icon?
+What does search box does if the search query is not entered?
+Check if the search box is present or not.
+Check if the search box length is as per the specification.
+Check the length of the query to be added into the search box.
+Check the characters allowed to be entered into the search box.
+Does the search box presents auto suggestions when the query is being typed?
+Does the search box offers typo corrections for the search query?
+Does the search box allows searching with incorrect spellings?
+Check if the amazon page offers default focus at search box or not.
+Does the search history page keeps history of your previously searched products on amazon?
+Does the search history page offers you option to hide the history of previously searched products?
+Does the search history page offers matching products related to the search keywords?
+Does the search history page allows you to disable tracking the search completely?
+Does disabling search history makes any change to the suggestions offered by search-box?
+Does disabling search history stops certain products being featured?
+Does disabling search history reverts back to the default setting in a new session?
